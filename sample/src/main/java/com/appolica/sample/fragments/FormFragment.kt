@@ -10,6 +10,7 @@ import android.widget.Toast
 import com.appolica.sample.R
 import kotlinx.android.synthetic.main.info_window_form_fragment.*
 
+
 class FormFragment : Fragment() {
     override fun onCreateView(
             inflater: LayoutInflater,

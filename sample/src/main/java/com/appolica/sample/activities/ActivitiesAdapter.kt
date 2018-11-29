@@ -13,10 +13,7 @@ import com.appolica.sample.R
 
 import java.util.ArrayList
 
-/**
- * Created by Bogomil Kolarov on 21.09.16.
- * Copyright © 2016 Appolica. All rights reserved.
- */
+
 class ActivitiesAdapter : RecyclerView.Adapter<ActivitiesAdapter.ItemViewHolder>() {
 
     private val data = ArrayList<Class<out Activity>>()

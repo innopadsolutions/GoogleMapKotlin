@@ -8,10 +8,8 @@ import com.appolica.interactiveinfowindow.InfoWindowManager
 import com.appolica.interactiveinfowindow.fragment.MapInfoWindowFragment
 import com.appolica.sample.R
 import com.appolica.sample.fragments.FormFragment
-import com.appolica.sample.fragments.RecyclerViewFragment
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
-import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.Marker
 import com.google.android.gms.maps.model.MarkerOptions

@@ -3,11 +3,9 @@ package com.appolica.sample.activities
 import android.os.Bundle
 import android.os.PersistableBundle
 import android.support.v4.app.FragmentActivity
-import android.view.View
 
 import com.appolica.interactiveinfowindow.InfoWindow
 import com.appolica.interactiveinfowindow.InfoWindowManager
-import com.appolica.interactiveinfowindow.customview.TouchInterceptFrameLayout
 import com.appolica.sample.R
 import com.appolica.sample.fragments.FormFragment
 import com.appolica.sample.fragments.RecyclerViewFragment

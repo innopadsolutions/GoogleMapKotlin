@@ -10,10 +10,7 @@ import com.appolica.sample.R
 
 import java.util.ArrayList
 
-/**
- * Created by Bogomil Kolarov on 22.09.16.
- * Copyright © 2016 Appolica. All rights reserved.
- */
+
 class InfoWindowRVAdapter : RecyclerView.Adapter<InfoWindowRVAdapter.ItemViewHolder>() {
 
     private val data = ArrayList<String>()

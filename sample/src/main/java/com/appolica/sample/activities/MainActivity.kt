@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        recyclerViewActivities!!.layoutManager = LinearLayoutManager(this)
+        recyclerViewActivities!!.layoutManager = LinearLayoutManager(this) as RecyclerView.LayoutManager?
         recyclerViewActivities!!.setHasFixedSize(true)
 
         adapter = ActivitiesAdapter()
